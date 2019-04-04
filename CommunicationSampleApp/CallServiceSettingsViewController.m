@@ -25,7 +25,7 @@
     [self.sipUsername setDelegate: self];
     [self.sipPassword setDelegate: self];
     [self.sipDomain setDelegate:self];
-    //test change
+    //test change 2
     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(startRegistration:) name:kStartSIPLoginNotification object:nil];
     [[NSNotificationCenter defaultCenter] addObserver:self selector:@selector(transportChanged:) name:kSIPTransportChangedNotification object:nil];
     
