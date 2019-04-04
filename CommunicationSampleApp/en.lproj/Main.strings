@@ -1,0 +1,408 @@
+
+/* Class = "UILabel"; text = "login_status"; ObjectID = "0O3-Nm-enS"; */
+"0O3-Nm-enS.text" = "login_status";
+
+/* Class = "UILabel"; text = "Work Email"; ObjectID = "1SJ-x6-4wQ"; */
+"1SJ-x6-4wQ.text" = "Work Email";
+
+/* Class = "UILabel"; text = "Build date: "; ObjectID = "1ua-oZ-GkQ"; */
+"1ua-oZ-GkQ.text" = "Build date: ";
+
+/* Class = "UIButton"; normalTitle = "Conference Controls"; ObjectID = "2Uk-aa-uux"; */
+"2Uk-aa-uux.normalTitle" = "Conference Controls";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "31c-UU-VUC"; */
+"31c-UU-VUC.text" = "Last Name";
+
+/* Class = "UILabel"; text = "call_state"; ObjectID = "3Ao-uY-uPx"; */
+"3Ao-uY-uPx.text" = "call_state";
+
+/* Class = "UILabel"; text = "Status : "; ObjectID = "3VM-uL-iSx"; */
+"3VM-uL-iSx.text" = "Status : ";
+
+/* Class = "UILabel"; text = "Refresh"; ObjectID = "3tV-MF-PjB"; */
+"3tV-MF-PjB.text" = "Refresh";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "5ap-YD-cbS"; */
+"5ap-YD-cbS.text" = "First Name";
+
+/* Class = "UILabel"; text = "Extension"; ObjectID = "60d-4l-Clh"; */
+"60d-4l-Clh.text" = "Extension";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "6Qj-ol-D0A"; */
+"6Qj-ol-D0A.title" = "Settings";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "6zM-PQ-bAx"; */
+"6zM-PQ-bAx.title" = "Back";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "73b-xW-otI"; */
+"73b-xW-otI.title" = "Done";
+
+/* Class = "UIButton"; normalTitle = "Make Audio Call"; ObjectID = "7H1-dB-B6l"; */
+"7H1-dB-B6l.normalTitle" = "Make Audio Call";
+
+/* Class = "UIButton"; normalTitle = "Settings"; ObjectID = "7Sw-Ps-duz"; */
+"7Sw-Ps-duz.normalTitle" = "Settings";
+
+/* Class = "UINavigationItem"; title = "Meeting"; ObjectID = "7YY-sP-ULR"; */
+"7YY-sP-ULR.title" = "Meeting";
+
+/* Class = "UIButton"; normalTitle = "End Call"; ObjectID = "7pH-LT-DZL"; */
+"7pH-LT-DZL.normalTitle" = "End Call";
+
+/* Class = "UITextField"; placeholder = "domain"; ObjectID = "81f-uo-FQ7"; */
+"81f-uo-FQ7.placeholder" = "domain";
+
+/* Class = "UILabel"; text = "unread message count"; ObjectID = "8T9-lt-uGG"; */
+"8T9-lt-uGG.text" = "unread message count";
+
+/* Class = "UIButton"; normalTitle = "About"; ObjectID = "8fp-rd-kSe"; */
+"8fp-rd-kSe.normalTitle" = "About";
+
+/* Class = "UILabel"; text = "Communications Package Sample App"; ObjectID = "8xo-1t-T8z"; */
+"8xo-1t-T8z.text" = "Communications Package Sample App";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "92y-vh-j8o"; */
+"92y-vh-j8o.title" = "Back";
+
+/* Class = "UILabel"; text = "Communications Package Sample App"; ObjectID = "9pr-GR-CKr"; */
+"9pr-GR-CKr.text" = "Communications Package Sample App";
+
+/* Class = "UILabel"; text = "Contact Name [contact number]"; ObjectID = "AMj-IF-wYY"; */
+"AMj-IF-wYY.text" = "Contact Name [contact number]";
+
+/* Class = "UINavigationItem"; title = "Settings - Call Service"; ObjectID = "Asb-hi-DzS"; */
+"Asb-hi-DzS.title" = "Settings - Call Service";
+
+/* Class = "UITextField"; placeholder = "Server address"; ObjectID = "B00-Cc-gKu"; */
+"B00-Cc-gKu.placeholder" = "Server address";
+
+/* Class = "UIViewController"; title = "SampleAppsIOS"; ObjectID = "CCQ-ny-rdF"; */
+"CCQ-ny-rdF.title" = "SampleAppsIOS";
+
+/* Class = "UIButton"; normalTitle = "Device Services"; ObjectID = "CpE-cS-iC4"; */
+"CpE-cS-iC4.normalTitle" = "Device Services";
+
+/* Class = "UILabel"; text = "Work Number"; ObjectID = "D28-xt-EzO"; */
+"D28-xt-EzO.text" = "Work Number";
+
+/* Class = "UILabel"; text = "Secure"; ObjectID = "D4E-Ax-gYP"; */
+"D4E-Ax-gYP.text" = "Secure";
+
+/* Class = "UILabel"; text = "searching..."; ObjectID = "DPc-hm-8mD"; */
+"DPc-hm-8mD.text" = "searching...";
+
+/* Class = "UITextField"; placeholder = "<contact>@<domain>"; ObjectID = "Da8-a8-qeA"; */
+"Da8-a8-qeA.placeholder" = "<contact>@<domain>";
+
+/* Class = "UINavigationItem"; title = "Add Contact"; ObjectID = "Dsu-AU-HXK"; */
+"Dsu-AU-HXK.title" = "Add Contact";
+
+/* Class = "UILabel"; text = "Login status"; ObjectID = "DtX-ev-En2"; */
+"DtX-ev-En2.text" = "Login status";
+
+/* Class = "UILabel"; text = "login_status"; ObjectID = "GDM-21-S8s"; */
+"GDM-21-S8s.text" = "login_status";
+
+/* Class = "UILabel"; text = "Work Number"; ObjectID = "Hdw-pk-7gW"; */
+"Hdw-pk-7gW.text" = "Work Number";
+
+/* Class = "UIButton"; normalTitle = "New Chat"; ObjectID = "Hpn-HG-GaJ"; */
+"Hpn-HG-GaJ.normalTitle" = "New Chat";
+
+/* Class = "UINavigationItem"; title = "Settings - Messaging"; ObjectID = "IXu-w9-IDx"; */
+"IXu-w9-IDx.title" = "Settings - Messaging";
+
+/* Class = "UILabel"; text = "Avaya Client Services"; ObjectID = "IbM-Jt-lJJ"; */
+"IbM-Jt-lJJ.text" = "Avaya Client Services";
+
+/* Class = "UITextField"; placeholder = "username"; ObjectID = "IfW-OE-VlU"; */
+"IfW-OE-VlU.placeholder" = "username";
+
+/* Class = "UIBarButtonItem"; title = "Edit"; ObjectID = "KOR-38-YvO"; */
+"KOR-38-YvO.title" = "Edit";
+
+/* Class = "UILabel"; text = "Domain"; ObjectID = "Kc6-U6-0nl"; */
+"Kc6-U6-0nl.text" = "Domain";
+
+/* Class = "UITextField"; placeholder = "username"; ObjectID = "Ktf-ZK-FyK"; */
+"Ktf-ZK-FyK.placeholder" = "username";
+
+/* Class = "UILabel"; text = "Mute"; ObjectID = "Lvx-Xb-wbt"; */
+"Lvx-Xb-wbt.text" = "Mute";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "MLJ-pt-m1h"; */
+"MLJ-pt-m1h.placeholder" = "password";
+
+/* Class = "UIBarButtonItem"; title = "Add"; ObjectID = "MdA-QO-Vhi"; */
+"MdA-QO-Vhi.title" = "Add";
+
+/* Class = "UILabel"; text = "Speakerphone"; ObjectID = "Ms0-5I-yFZ"; */
+"Ms0-5I-yFZ.text" = "Speakerphone";
+
+/* Class = "UIButton"; normalTitle = "CollabBtn"; ObjectID = "N0t-bx-au4"; */
+"N0t-bx-au4.normalTitle" = "CollabBtn";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "N1n-ym-f9F"; */
+"N1n-ym-f9F.text" = "Username";
+
+/* Class = "UITextField"; placeholder = "SIP proxy address"; ObjectID = "NZl-xH-HJN"; */
+"NZl-xH-HJN.placeholder" = "SIP proxy address";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "O5Q-wb-vmK"; */
+"O5Q-wb-vmK.text" = "Password";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "Ob1-KC-Ltg"; */
+"Ob1-KC-Ltg.text" = "Username";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "QZA-e6-tLI"; */
+"QZA-e6-tLI.placeholder" = "Last Name";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "QgV-dK-45Z"; */
+"QgV-dK-45Z.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "<participant> is typing..."; ObjectID = "Qox-ES-BAt"; */
+"Qox-ES-BAt.text" = "<participant> is typing...";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "RJK-Su-9HS"; */
+"RJK-Su-9HS.title" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Make Video Call"; ObjectID = "TdT-j6-dSb"; */
+"TdT-j6-dSb.normalTitle" = "Make Video Call";
+
+/* Class = "UIButton"; normalTitle = "Call Logs"; ObjectID = "Umv-D0-adw"; */
+"Umv-D0-adw.normalTitle" = "Call Logs";
+
+/* Class = "UILabel"; text = "First Name"; ObjectID = "Vh2-o0-ygJ"; */
+"Vh2-o0-ygJ.text" = "First Name";
+
+/* Class = "UIButton"; normalTitle = "Call Service"; ObjectID = "Vhx-fS-xmr"; */
+"Vhx-fS-xmr.normalTitle" = "Call Service";
+
+/* Class = "UILabel"; text = "Call Duration:"; ObjectID = "W5V-IY-gB6"; */
+"W5V-IY-gB6.text" = "Call Duration:";
+
+/* Class = "UILabel"; text = "Port"; ObjectID = "XKj-v2-JUG"; */
+"XKj-v2-JUG.text" = "Port";
+
+/* Class = "UIButton"; normalTitle = "Contacts Service"; ObjectID = "Y9e-rK-9Ot"; */
+"Y9e-rK-9Ot.normalTitle" = "Contacts Service";
+
+/* Class = "UILabel"; text = "DTMF :"; ObjectID = "ZQL-mH-1v2"; */
+"ZQL-mH-1v2.text" = "DTMF :";
+
+/* Class = "UITextField"; text = "8443"; ObjectID = "ZeQ-z8-JM2"; */
+"ZeQ-z8-JM2.text" = "8443";
+
+/* Class = "UINavigationItem"; title = "Conversation with"; ObjectID = "Zp6-IY-k8C"; */
+"Zp6-IY-k8C.title" = "Conversation with";
+
+/* Class = "UILabel"; text = "Participants :"; ObjectID = "ZuS-M4-eC6"; */
+"ZuS-M4-eC6.text" = "Participants :";
+
+/* Class = "UILabel"; text = "Last Name"; ObjectID = "aIx-Pa-SOh"; */
+"aIx-Pa-SOh.text" = "Last Name";
+
+/* Class = "UINavigationItem"; title = "Setting-Device Services"; ObjectID = "aJA-aa-5rz"; */
+"aJA-aa-5rz.title" = "Setting-Device Services";
+
+/* Class = "UINavigationItem"; title = "Contacts Service"; ObjectID = "aUY-KO-PAW"; */
+"aUY-KO-PAW.title" = "Contacts Service";
+
+/* Class = "UILabel"; text = "Status:"; ObjectID = "aVH-8U-Vex"; */
+"aVH-8U-Vex.text" = "Status:";
+
+/* Class = "UIButton"; normalTitle = "Unmute Everyone"; ObjectID = "bmK-2h-1YW"; */
+"bmK-2h-1YW.normalTitle" = "Unmute Everyone";
+
+/* Class = "UINavigationItem"; title = "Messaging Service"; ObjectID = "byP-PE-cV6"; */
+"byP-PE-cV6.title" = "Messaging Service";
+
+/* Class = "UIButton"; normalTitle = "Received Media"; ObjectID = "c5o-s4-17b"; */
+"c5o-s4-17b.normalTitle" = "Received Media";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "cTU-fS-IsW"; */
+"cTU-fS-IsW.text" = "Password";
+
+/* Class = "UINavigationItem"; title = "Conversation Media"; ObjectID = "cUi-XH-Reo"; */
+"cUi-XH-Reo.title" = "Conversation Media";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "cbE-Vt-X1g"; */
+"cbE-Vt-X1g.title" = "Done";
+
+/* Class = "UILabel"; text = "URL"; ObjectID = "cmo-ON-J44"; */
+"cmo-ON-J44.text" = "URL";
+
+/* Class = "UILabel"; text = "Version: "; ObjectID = "d75-cT-rxM"; */
+"d75-cT-rxM.text" = "Version: ";
+
+/* Class = "UILabel"; text = "Send All Calls"; ObjectID = "dFx-rD-WUd"; */
+"dFx-rD-WUd.text" = "Send All Calls";
+
+/* Class = "UITextField"; placeholder = "Work Email"; ObjectID = "dOb-7N-gef"; */
+"dOb-7N-gef.placeholder" = "Work Email";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "daQ-VK-HiC"; */
+"daQ-VK-HiC.placeholder" = "First Name";
+
+/* Class = "UILabel"; text = "Lock Meeting"; ObjectID = "deo-YJ-MQo"; */
+"deo-YJ-MQo.text" = "Lock Meeting";
+
+/* Class = "UILabel"; text = "URL"; ObjectID = "eIk-bW-DGe"; */
+"eIk-bW-DGe.text" = "URL";
+
+/* Class = "UILabel"; text = "app_version"; ObjectID = "ea4-Bq-YH8"; */
+"ea4-Bq-YH8.text" = "app_version";
+
+/* Class = "UIBarButtonItem"; title = "Search"; ObjectID = "eaF-D7-wgN"; */
+"eaF-D7-wgN.title" = "Search";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "edm-x1-pNF"; */
+"edm-x1-pNF.title" = "Back";
+
+/* Class = "UINavigationItem"; title = "Collaboration"; ObjectID = "fe9-RJ-MvJ"; */
+"fe9-RJ-MvJ.title" = "Collaboration";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "feF-WN-rax"; */
+"feF-WN-rax.title" = "Back";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "fmK-xG-hmd"; */
+"fmK-xG-hmd.title" = "Back";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "g7B-ml-3Wp"; */
+"g7B-ml-3Wp.placeholder" = "password";
+
+/* Class = "UINavigationItem"; title = "About"; ObjectID = "g7R-Tr-7wC"; */
+"g7R-Tr-7wC.title" = "About";
+
+/* Class = "UILabel"; text = "Port"; ObjectID = "g7p-T9-TtN"; */
+"g7p-T9-TtN.text" = "Port";
+
+/* Class = "UINavigationItem"; title = "Active Call"; ObjectID = "gaC-Ky-JTV"; */
+"gaC-Ky-JTV.title" = "Active Call";
+
+/* Class = "UITextField"; placeholder = "username"; ObjectID = "gkJ-tX-d04"; */
+"gkJ-tX-d04.placeholder" = "username";
+
+/* Class = "UILabel"; text = "Contact Name"; ObjectID = "h2Z-e0-2Fc"; */
+"h2Z-e0-2Fc.text" = "Contact Name";
+
+/* Class = "UIButton"; normalTitle = "Create"; ObjectID = "hTz-FO-9ws"; */
+"hTz-FO-9ws.normalTitle" = "Create";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "hYs-GZ-xpy"; */
+"hYs-GZ-xpy.text" = "Address";
+
+/* Class = "UILabel"; text = "Version: "; ObjectID = "ha0-xt-YLt"; */
+"ha0-xt-YLt.text" = "Version: ";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "iuv-oD-0BD"; */
+"iuv-oD-0BD.text" = "Password";
+
+/* Class = "UITextField"; placeholder = "search string"; ObjectID = "jNp-OR-rNv"; */
+"jNp-OR-rNv.placeholder" = "search string";
+
+/* Class = "UILabel"; text = "sdk_version"; ObjectID = "m8i-Rl-aW0"; */
+"m8i-Rl-aW0.text" = "sdk_version";
+
+/* Class = "UITextField"; placeholder = "Server address"; ObjectID = "mS9-iJ-eNj"; */
+"mS9-iJ-eNj.placeholder" = "Server address";
+
+/* Class = "UITextField"; text = "5061"; ObjectID = "mpA-v5-9AM"; */
+"mpA-v5-9AM.text" = "5061";
+
+/* Class = "UILabel"; text = "app_build_date"; ObjectID = "niY-g4-QHC"; */
+"niY-g4-QHC.text" = "app_build_date";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "oaO-ce-yKE"; */
+"oaO-ce-yKE.title" = "Done";
+
+/* Class = "UINavigationItem"; title = "Create New Conversation"; ObjectID = "p6i-1U-I4e"; */
+"p6i-1U-I4e.title" = "Create New Conversation";
+
+/* Class = "UIViewController"; title = "Collaboration"; ObjectID = "pDf-bf-fKK"; */
+"pDf-bf-fKK.title" = "Collaboration";
+
+/* Class = "UIButton"; normalTitle = "Messaging Service"; ObjectID = "pPq-M4-S4R"; */
+"pPq-M4-S4R.normalTitle" = "Messaging Service";
+
+/* Class = "UITextField"; text = "8443"; ObjectID = "phU-m2-4bO"; */
+"phU-m2-4bO.text" = "8443";
+
+/* Class = "UILabel"; text = "Status: "; ObjectID = "pkX-YK-xpf"; */
+"pkX-YK-xpf.text" = "Status: ";
+
+/* Class = "UINavigationItem"; title = "Call Service"; ObjectID = "q4Q-YQ-Vs9"; */
+"q4Q-YQ-Vs9.title" = "Call Service";
+
+/* Class = "UILabel"; text = "TLS"; ObjectID = "qbp-Hv-iww"; */
+"qbp-Hv-iww.text" = "TLS";
+
+/* Class = "UIBarButtonItem"; title = "Active Call"; ObjectID = "qf5-51-kVx"; */
+"qf5-51-kVx.title" = "Active Call";
+
+/* Class = "UINavigationItem"; title = "Avaya Client SDK"; ObjectID = "qwR-E3-3f7"; */
+"qwR-E3-3f7.title" = "Avaya Client SDK";
+
+/* Class = "UILabel"; text = "Work Email"; ObjectID = "t4o-KY-idu"; */
+"t4o-KY-idu.text" = "Work Email";
+
+/* Class = "UILabel"; text = "Remote Video"; ObjectID = "tLX-S5-Y4C"; */
+"tLX-S5-Y4C.text" = "Remote Video";
+
+/* Class = "UIButton"; normalTitle = "Attach Media"; ObjectID = "tLe-9i-Sua"; */
+"tLe-9i-Sua.normalTitle" = "Attach Media";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "tbX-aH-dJ4"; */
+"tbX-aH-dJ4.placeholder" = "password";
+
+/* Class = "UIButton"; normalTitle = "Call Service"; ObjectID = "tsK-TJ-vCh"; */
+"tsK-TJ-vCh.normalTitle" = "Call Service";
+
+/* Class = "UINavigationItem"; title = "Search Contact"; ObjectID = "u17-q4-6No"; */
+"u17-q4-6No.title" = "Search Contact";
+
+/* Class = "UILabel"; text = "Call State:"; ObjectID = "uOT-ES-G0m"; */
+"uOT-ES-G0m.text" = "Call State:";
+
+/* Class = "UILabel"; text = "00:00:00"; ObjectID = "ubO-Fz-gag"; */
+"ubO-Fz-gag.text" = "00:00:00";
+
+/* Class = "UIButton"; normalTitle = "Messaging Service"; ObjectID = "uxE-LD-wQ9"; */
+"uxE-LD-wQ9.normalTitle" = "Messaging Service";
+
+/* Class = "UILabel"; text = "Local Video"; ObjectID = "vDS-ZT-srq"; */
+"vDS-ZT-srq.text" = "Local Video";
+
+/* Class = "UILabel"; text = "Number To Call"; ObjectID = "vMa-r4-drU"; */
+"vMa-r4-drU.text" = "Number To Call";
+
+/* Class = "UILabel"; text = "Action   Time   Call duration"; ObjectID = "vad-e2-o8g"; */
+"vad-e2-o8g.text" = "Action   Time   Call duration";
+
+/* Class = "UIButton"; normalTitle = "0 (Push)"; ObjectID = "vlG-Cz-jQ8"; */
+"vlG-Cz-jQ8.normalTitle" = "0 (Push)";
+
+/* Class = "UIBarButtonItem"; title = "Back"; ObjectID = "vsQ-9G-o0w"; */
+"vsQ-9G-o0w.title" = "Back";
+
+/* Class = "UIButton"; normalTitle = "Mute Everyone"; ObjectID = "wnK-pY-0fU"; */
+"wnK-pY-0fU.normalTitle" = "Mute Everyone";
+
+/* Class = "UILabel"; text = "Secure"; ObjectID = "x6j-Kf-Ce5"; */
+"x6j-Kf-Ce5.text" = "Secure";
+
+/* Class = "UIBarButtonItem"; title = "Done"; ObjectID = "yqA-dw-ZkK"; */
+"yqA-dw-ZkK.title" = "Done";
+
+/* Class = "UINavigationItem"; title = "Contact Details"; ObjectID = "zAl-K9-Vev"; */
+"zAl-K9-Vev.title" = "Contact Details";
+
+/* Class = "UINavigationItem"; title = "Call Log Service"; ObjectID = "zc1-WX-b8b"; */
+"zc1-WX-b8b.title" = "Call Log Service";
+
+/* Class = "UILabel"; text = "Port"; ObjectID = "zdp-pe-tqI"; */
+"zdp-pe-tqI.text" = "Port";
+
+/* Class = "UITextField"; placeholder = "Work Number"; ObjectID = "zrh-jI-aq2"; */
+"zrh-jI-aq2.placeholder" = "Work Number";
